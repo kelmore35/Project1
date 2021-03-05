@@ -1,13 +1,3 @@
 
-Git commands
-
-Go to your command line and run the command: git clone https://github.com/your-username/yourlink.git
-
-
-Run git add . to specify that you want to sync all the items and directories that you just added to your repo. This command stages your files for a commit.
-
-Run the command git commit -m "First commit" to confirm the commit and add a note describing it ("First commit").
-
-Run git push to finalize the sync.
 
 
